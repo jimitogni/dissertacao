@@ -1,0 +1,3299 @@
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 0.01
+batch size -> 8
+
+Training complete in 5m 13s
+Best val Acc: 0.925926
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 0.01
+batch size -> 16
+
+Training complete in 5m 7s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 0.01
+batch size -> 32
+
+Training complete in 5m 10s
+Best val Acc: 0.921811
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 0.001
+batch size -> 8
+
+Training complete in 5m 8s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 0.001
+batch size -> 16
+
+Training complete in 5m 9s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 0.001
+batch size -> 32
+
+Training complete in 5m 9s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 5m 8s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 5m 8s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 5m 10s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 5m 10s
+Best val Acc: 0.905350
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 5m 7s
+Best val Acc: 0.901235
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 30
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 5m 11s
+Best val Acc: 0.897119
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 0.01
+batch size -> 8
+
+Training complete in 8m 37s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 0.01
+batch size -> 16
+
+Training complete in 8m 35s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 0.01
+batch size -> 32
+
+Training complete in 8m 35s
+Best val Acc: 0.662551
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 0.001
+batch size -> 8
+
+Training complete in 8m 35s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 0.001
+batch size -> 16
+
+Training complete in 8m 31s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 0.001
+batch size -> 32
+
+Training complete in 8m 37s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 8m 37s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 8m 35s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 8m 36s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 8m 35s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 8m 39s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 50
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 8m 35s
+Best val Acc: 0.934156
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.01
+batch size -> 8
+
+Training complete in 17m 15s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.01
+batch size -> 16
+
+Training complete in 17m 17s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.01
+batch size -> 32
+
+Training complete in 17m 14s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+
+Training complete in 17m 13s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+
+Training complete in 17m 14s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+
+Training complete in 17m 10s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 17m 13s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 17m 10s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 17m 14s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 17m 11s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 17m 10s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 17m 16s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 0.01
+batch size -> 8
+
+Training complete in 34m 27s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 0.01
+batch size -> 16
+
+Training complete in 34m 27s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 0.01
+batch size -> 32
+
+Training complete in 34m 25s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 0.001
+batch size -> 8
+
+Training complete in 34m 60s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 0.001
+batch size -> 16
+
+Training complete in 35m 3s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 0.001
+batch size -> 32
+
+Training complete in 34m 32s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 34m 30s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 34m 31s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 34m 28s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 34m 25s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 34m 25s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 200
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 34m 25s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 0.01
+batch size -> 8
+
+Training complete in 86m 7s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 0.01
+batch size -> 16
+
+Training complete in 86m 9s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 0.01
+batch size -> 32
+
+Training complete in 86m 11s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 0.001
+batch size -> 8
+
+Training complete in 86m 6s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 0.001
+batch size -> 16
+
+Training complete in 86m 3s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 0.001
+batch size -> 32
+
+Training complete in 86m 11s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 86m 7s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 86m 18s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 86m 9s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 86m 2s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 86m 5s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> squeezenet
+epochs -> 500
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 85m 53s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 0.01
+batch size -> 8
+
+Training complete in 5m 29s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 0.01
+batch size -> 16
+
+Training complete in 5m 30s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 0.01
+batch size -> 32
+
+Training complete in 5m 30s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 0.001
+batch size -> 8
+
+Training complete in 5m 27s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 0.001
+batch size -> 16
+
+Training complete in 5m 30s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 0.001
+batch size -> 32
+
+Training complete in 5m 31s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 5m 31s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 5m 29s
+Best val Acc: 0.925926
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 5m 29s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 5m 32s
+Best val Acc: 0.831276
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 5m 32s
+Best val Acc: 0.831276
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 30
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 5m 34s
+Best val Acc: 0.860082
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 0.01
+batch size -> 8
+
+Training complete in 9m 5s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 0.01
+batch size -> 16
+
+Training complete in 9m 9s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 0.01
+batch size -> 32
+
+Training complete in 9m 10s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 0.001
+batch size -> 8
+
+Training complete in 9m 11s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 0.001
+batch size -> 16
+
+Training complete in 9m 12s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 0.001
+batch size -> 32
+
+Training complete in 9m 9s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 9m 10s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 9m 11s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 9m 12s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 9m 9s
+Best val Acc: 0.872428
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 9m 10s
+Best val Acc: 0.876543
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 50
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 9m 16s
+Best val Acc: 0.860082
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 0.01
+batch size -> 8
+
+Training complete in 18m 19s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 0.01
+batch size -> 16
+
+Training complete in 18m 22s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 0.01
+batch size -> 32
+
+Training complete in 18m 25s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+
+Training complete in 18m 21s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+
+Training complete in 18m 19s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+
+Training complete in 18m 25s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 18m 25s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 18m 19s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 18m 26s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 18m 21s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 18m 20s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 100
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 18m 22s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 0.01
+batch size -> 8
+
+Training complete in 36m 46s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 0.01
+batch size -> 16
+
+Training complete in 36m 45s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 0.01
+batch size -> 32
+
+Training complete in 36m 36s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 0.001
+batch size -> 8
+
+Training complete in 36m 46s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 0.001
+batch size -> 16
+
+Training complete in 36m 37s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 0.001
+batch size -> 32
+
+Training complete in 36m 37s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 36m 42s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 36m 42s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 36m 36s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 36m 48s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 36m 34s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 200
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 36m 44s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 0.01
+batch size -> 8
+
+Training complete in 91m 50s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 0.01
+batch size -> 16
+
+Training complete in 91m 48s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 0.01
+batch size -> 32
+
+Training complete in 91m 51s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 0.001
+batch size -> 8
+
+Training complete in 91m 49s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 0.001
+batch size -> 16
+
+Training complete in 91m 43s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 0.001
+batch size -> 32
+
+Training complete in 93m 36s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 92m 46s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 92m 55s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 92m 50s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 92m 48s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 118m 48s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> densenet
+epochs -> 500
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 134m 51s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 0.01
+batch size -> 8
+
+Training complete in 7m 40s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 0.01
+batch size -> 16
+
+Training complete in 7m 40s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 0.01
+batch size -> 32
+
+Training complete in 7m 41s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 0.001
+batch size -> 8
+
+Training complete in 7m 39s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 0.001
+batch size -> 16
+
+Training complete in 7m 42s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 0.001
+batch size -> 32
+
+Training complete in 7m 38s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 7m 37s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 7m 38s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 7m 38s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 7m 36s
+Best val Acc: 0.827160
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 7m 39s
+Best val Acc: 0.831276
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 30
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 7m 38s
+Best val Acc: 0.893004
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 0.01
+batch size -> 8
+
+Training complete in 12m 39s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 0.01
+batch size -> 16
+
+Training complete in 12m 46s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 0.01
+batch size -> 32
+
+Training complete in 12m 46s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 0.001
+batch size -> 8
+
+Training complete in 12m 44s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 0.001
+batch size -> 16
+
+Training complete in 12m 43s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 0.001
+batch size -> 32
+
+Training complete in 12m 45s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 12m 43s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 12m 47s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 12m 43s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 12m 43s
+Best val Acc: 0.880658
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 12m 46s
+Best val Acc: 0.901235
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 50
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 12m 41s
+Best val Acc: 0.917695
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 0.01
+batch size -> 8
+
+Training complete in 25m 27s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 0.01
+batch size -> 16
+
+Training complete in 25m 24s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 0.01
+batch size -> 32
+
+Training complete in 25m 19s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+
+Training complete in 25m 25s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+
+Training complete in 25m 29s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+
+Training complete in 25m 27s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 25m 24s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 25m 29s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 25m 21s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 25m 27s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 25m 29s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 100
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 25m 30s
+Best val Acc: 0.921811
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 0.01
+batch size -> 8
+
+Training complete in 50m 51s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 0.01
+batch size -> 16
+
+Training complete in 51m 12s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 0.01
+batch size -> 32
+
+Training complete in 51m 12s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 0.001
+batch size -> 8
+
+Training complete in 51m 7s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 0.001
+batch size -> 16
+
+Training complete in 51m 4s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 0.001
+batch size -> 32
+
+Training complete in 51m 6s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 51m 8s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 51m 2s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 52m 38s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 52m 54s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 53m 3s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 200
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 52m 57s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 0.01
+batch size -> 8
+
+Training complete in 131m 59s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 0.01
+batch size -> 16
+
+Training complete in 132m 10s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 0.01
+batch size -> 32
+
+Training complete in 131m 41s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 0.001
+batch size -> 8
+
+Training complete in 131m 41s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 0.001
+batch size -> 16
+
+Training complete in 131m 11s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 0.001
+batch size -> 32
+
+Training complete in 131m 30s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 131m 39s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 130m 39s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 128m 5s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 133m 33s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 134m 19s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> resnet
+epochs -> 500
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 134m 18s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 0.01
+batch size -> 8
+
+Training complete in 8m 3s
+Best val Acc: 0.934156
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 0.01
+batch size -> 16
+
+Training complete in 8m 5s
+Best val Acc: 0.925926
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 0.01
+batch size -> 32
+
+Training complete in 7m 60s
+Best val Acc: 0.925926
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 0.001
+batch size -> 8
+
+Training complete in 8m 4s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 0.001
+batch size -> 16
+
+Training complete in 8m 2s
+Best val Acc: 0.925926
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 0.001
+batch size -> 32
+
+Training complete in 8m 3s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 8m 6s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 8m 3s
+Best val Acc: 0.934156
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 7m 59s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 8m 1s
+Best val Acc: 0.917695
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 8m 1s
+Best val Acc: 0.905350
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 30
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 7m 59s
+Best val Acc: 0.893004
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 0.01
+batch size -> 8
+
+Training complete in 13m 22s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 0.01
+batch size -> 16
+
+Training complete in 13m 24s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 0.01
+batch size -> 32
+
+Training complete in 13m 26s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 0.001
+batch size -> 8
+
+Training complete in 13m 25s
+Best val Acc: 0.934156
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 0.001
+batch size -> 16
+
+Training complete in 13m 20s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 0.001
+batch size -> 32
+
+Training complete in 13m 24s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 13m 22s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 13m 25s
+Best val Acc: 0.942387
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 13m 19s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 13m 25s
+Best val Acc: 0.909465
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 13m 21s
+Best val Acc: 0.917695
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 50
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 13m 25s
+Best val Acc: 0.917695
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 0.01
+batch size -> 8
+
+Training complete in 26m 51s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 0.01
+batch size -> 16
+
+Training complete in 26m 47s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 0.01
+batch size -> 32
+
+Training complete in 26m 44s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+
+Training complete in 26m 38s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+
+Training complete in 26m 42s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+
+Training complete in 26m 39s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 26m 36s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 26m 41s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 26m 45s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 26m 48s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 26m 47s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 100
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 26m 50s
+Best val Acc: 0.934156
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 0.01
+batch size -> 8
+
+Training complete in 53m 34s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 0.01
+batch size -> 16
+
+Training complete in 53m 24s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 0.01
+batch size -> 32
+
+Training complete in 53m 35s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 0.001
+batch size -> 8
+
+Training complete in 53m 17s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 0.001
+batch size -> 16
+
+Training complete in 60m 42s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 0.001
+batch size -> 32
+
+Training complete in 76m 24s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 83m 44s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 83m 49s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 77m 55s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 50m 51s
+Best val Acc: 0.934156
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 51m 12s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 200
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 50m 46s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 0.01
+batch size -> 8
+
+Training complete in 175m 36s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 0.01
+batch size -> 16
+
+Training complete in 208m 21s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 0.01
+batch size -> 32
+
+Training complete in 207m 51s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 0.001
+batch size -> 8
+
+Training complete in 208m 31s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 0.001
+batch size -> 16
+
+Training complete in 208m 52s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 0.001
+batch size -> 32
+
+Training complete in 208m 51s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 210m 12s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 210m 29s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 207m 58s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 206m 58s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 207m 9s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> alexnet
+epochs -> 500
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 210m 42s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 0.01
+batch size -> 8
+
+Training complete in 12m 49s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 0.01
+batch size -> 16
+
+Training complete in 12m 54s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 0.01
+batch size -> 32
+
+Training complete in 12m 52s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 0.001
+batch size -> 8
+
+Training complete in 12m 49s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 0.001
+batch size -> 16
+
+Training complete in 12m 54s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 0.001
+batch size -> 32
+
+Training complete in 12m 45s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 12m 56s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 12m 49s
+Best val Acc: 0.938272
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 12m 48s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 12m 50s
+Best val Acc: 0.897119
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 12m 50s
+Best val Acc: 0.905350
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 30
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 12m 46s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 0.01
+batch size -> 8
+
+Training complete in 21m 11s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 0.01
+batch size -> 16
+
+Training complete in 21m 18s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 0.01
+batch size -> 32
+
+Training complete in 21m 18s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 0.001
+batch size -> 8
+
+Training complete in 21m 39s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 0.001
+batch size -> 16
+
+Training complete in 21m 16s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 0.001
+batch size -> 32
+
+Training complete in 21m 17s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 21m 25s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 20m 41s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 14m 46s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 14m 45s
+Best val Acc: 0.917695
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 14m 43s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 50
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 14m 42s
+Best val Acc: 0.917695
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 0.01
+batch size -> 8
+
+Training complete in 29m 26s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 0.01
+batch size -> 16
+
+Training complete in 29m 29s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 0.01
+batch size -> 32
+
+Training complete in 29m 30s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+
+Training complete in 29m 31s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+
+Training complete in 29m 33s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+
+Training complete in 29m 25s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 29m 21s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 29m 24s
+Best val Acc: 0.954733
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 29m 17s
+Best val Acc: 0.950617
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 29m 20s
+Best val Acc: 0.930041
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 29m 7s
+Best val Acc: 0.934156
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 100
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 29m 7s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 0.01
+batch size -> 8
+
+Training complete in 58m 29s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 0.01
+batch size -> 16
+
+Training complete in 58m 30s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 0.01
+batch size -> 32
+
+Training complete in 58m 23s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 0.001
+batch size -> 8
+
+Training complete in 58m 41s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 0.001
+batch size -> 16
+
+Training complete in 58m 22s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 0.001
+batch size -> 32
+
+Training complete in 55m 30s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 54m 19s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 54m 38s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 54m 35s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 54m 46s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 55m 4s
+Best val Acc: 0.946502
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 200
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 54m 51s
+Best val Acc: 0.962963
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 0.01
+batch size -> 8
+
+Training complete in 137m 20s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 0.01
+batch size -> 16
+
+Training complete in 134m 21s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 0.01
+batch size -> 32
+
+Training complete in 124m 45s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 0.001
+batch size -> 8
+
+Training complete in 124m 41s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 0.001
+batch size -> 16
+
+Training complete in 124m 45s
+Best val Acc: 0.975309
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 0.001
+batch size -> 32
+
+Training complete in 124m 35s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 0.0001
+batch size -> 8
+
+Training complete in 124m 19s
+Best val Acc: 0.971193
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 0.0001
+batch size -> 16
+
+Training complete in 124m 13s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 0.0001
+batch size -> 32
+
+Training complete in 124m 14s
+Best val Acc: 0.967078
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 1e-05
+batch size -> 8
+
+Training complete in 124m 33s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 1e-05
+batch size -> 16
+
+Training complete in 124m 35s
+Best val Acc: 0.958848
+##############################
+
+--
+------ Summary ------
+model -> vgg
+epochs -> 500
+lr -> 1e-05
+batch size -> 32
+
+Training complete in 124m 56s
+Best val Acc: 0.958848
+##############################
+
