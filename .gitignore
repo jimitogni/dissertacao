@@ -1,3 +1,6 @@
 *.pth
 covid19/datasets/
 covid19/reproduce-chexnet/
+covid19/pytorch/aug_off_80_20/models/
+covid19/**/*.pth
+covid19/pytorch/**/*.pth
