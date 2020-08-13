@@ -6,3 +6,5 @@ covid19/**/*.pth
 covid19/pytorch/**/*.pth
 covid19/pytorch/aug_off_80_20/models/*
 covid19/pytorch/aug_off_80_20/models/*.*
+covid19/pytorch/aug_off_80_20/runs
+covid19/pytorch/aug_off_80_20/runs/*
