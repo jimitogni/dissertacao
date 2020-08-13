@@ -1,2 +1,3 @@
+*.pth
 covid19/datasets/
 covid19/reproduce-chexnet/
