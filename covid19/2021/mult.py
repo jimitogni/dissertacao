@@ -136,35 +136,24 @@ len_test_dir = len([iq for iq in os.scandir(test_dir+'covid/')]) + len([iq for i
 len_val_dir = len([iq for iq in os.scandir(val_dir+'covid/')]) + len([iq for iq in os.scandir(val_dir+'normal/')]) + len([iq for iq in os.scandir(val_dir+'pneu/')])
 
 print('Files per classes')
-print("<br>")
 print("----"*10)
-print("<br>")
 print("normal : ", len_covid)
-print("<br>")
 
 print("pneumonia : ", len_normal)
-print("<br>")
 
 print("covid : ", len_pneumonia)
-print("<br>")
 
 print("-"*20)
-print("<br>")
 
 print('Train, test, validation')
-print("<br>")
 
 print("-"*20)
-print("<br>")
 
 print("len_train_dir : ", len_train_dir)
-print("<br>")
 
 print("len_test_dir : ", len_test_dir)
-print("<br>")
 
 print("len_val_dir : ", len_val_dir)
-print("<br>")
 
 
 # In[6]:
@@ -191,7 +180,7 @@ def train_model(model, dataloaders, criterion, optimizer, num_epochs,
     for epoch in range(num_epochs):
         #print('Epoch {}/{}'.format(epoch, num_epochs - 1))
         
-        print('- ')
+        #print('-' * 10)
         
 
         # Each epoch has a training and validation phase
@@ -263,35 +252,23 @@ def train_model(model, dataloaders, criterion, optimizer, num_epochs,
                 val_acc_history.append(epoch_acc)
                 val_loss_history.append(epoch_loss)
 
-        print()
+        #print()
         
         
     time_elapsed = time.time() - since
     print()
-    print("<br>")
-    #print('#'*30)
-    print("<br>")
+    print('#'*30)
     print('------ Summary ------')
-    print("<br>")
     print(f'model -> {_model}')
-    print("<br>")
     print(f'epochs -> {_epochs}')
-    print("<br>")
     print(f'lr -> {_lrs}')
-    print("<br>")
     print(f'batch size -> {_batch}')
-    print("<br>")
-    print(f'optimizer -> {opt_name}')
-    print("<br>")
+    print(f'optimizer -> {opt_name}'), 
     print(f'criteriun -> {crt_name}')
-    print("<br>")
     print()
-    print("<br>")
     print('Training complete in {:.0f}m {:.0f}s'.format(time_elapsed // 60, time_elapsed % 60))
-    print("<br>")
     print('Best val Acc: {:4f}'.format(best_acc))
-    #print('#'*30)
-    print("<br>")
+    print('#'*30)
     
     plt.figure(figsize=(13, 4))
     plt.subplot(1, 2, 1)
@@ -305,13 +282,12 @@ def train_model(model, dataloaders, criterion, optimizer, num_epochs,
     plt.title('Loss in Validation Dataset')
     plt.legend()
     plt.tight_layout()
-    plt.savefig('img/hist_'+_model+'_opt_'+opt_name+'_crt_'+crt_name+'.png')
-    plt.show()
+    plt.savefig('img/mult/HIST_model='+str(_model)+'_opt='+opt_name+'_crt='+crt_name+'_lr='+str(_lrs)+'_bs='+str(_batch)+'.png')
+    #plt.show()
 
     print()
 
     print('==== END ====')
-    print("<br>")
 
 
     # load best model weights
@@ -469,9 +445,8 @@ def initialize_model(model_name, num_classes, feature_extract, use_pretrained=Tr
 
 import itertools 
 
-def plot_confusion_matrix(cm, classes,
+def plot_confusion_matrix(cm, classes, model, opt_name, crt_name, lr, batch_size,
                           normalize=False,
-                          title='Confusion matrix',
                           cmap=plt.cm.Blues):
     """
     This function prints and plots the confusion matrix.
@@ -484,6 +459,9 @@ def plot_confusion_matrix(cm, classes,
         print('Confusion matrix, without normalization')
 
     #print(cm)
+    
+    title="Confuzion Matrix "+model
+    filename = "model="+str(model)+"_opt="+opt_name+"_crt="+crt_name+"_lr="+str(lr)+"_bs="+str(batch_size)
 
     plt.imshow(cm, interpolation='nearest', cmap=cmap)
     plt.title(title)
@@ -502,7 +480,7 @@ def plot_confusion_matrix(cm, classes,
     plt.tight_layout()
     plt.ylabel('True label')
     plt.xlabel('Predicted label')
-    plt.savefig('img/cm_'+title+'.png')
+    plt.savefig('img/mult/CM_'+filename+'.png')
 
 
 # In[ ]:
@@ -511,14 +489,12 @@ def plot_confusion_matrix(cm, classes,
 # Modelos ['squeezenet', 'densenet', 'resnet', 'alexnet', 'vgg', 'googlenet', 'shufflenet', 'mobilenet']
 num_classes = 3
 
-_models = ['squeezenet', 'densenet', 'resnet', 'alexnet', 'vgg', 'googlenet', 'shufflenet', 'mobilenet']
-lrs = [1e-3, 1e-4, 1e-5]#45
+_models = ['mobilenet']
+lrs = [1e-3, 1e-4, 1e-5]
 _epoch = [100]
-batch_sizes = [8, 16, 32]#9
+batch_sizes = [8, 16, 32]
 opt = [1, 2, 3] #1 SGD - 2 ADAM - 3 RMSprop
 crt = [1] # 1 CrossEntropyLoss - 2 BCELoss
-
-treino = 0
 
 for _model in _models:
     for _epochs in _epoch:
@@ -530,22 +506,14 @@ for _model in _models:
                         
                             
                         print()
-                        print("<br>")
                         print('='*60)
-                        #print('==== INITIALIZING WITH PARAMETERS: ====')
-                        #print("<br>")
-                        #print(f'model -> {_model}')
-                        #print("<br>")
-                        #rint(f'epochs -> {_epochs}')
-                        #print("<br>")
-                        #print(f'lr -> {_lrs}')
-                        #print("<br>")
-                        #print(f'batch size -> {_batch}')
-                        #print("<br>")
-                        #print(f'optimizer -> {_opt}')
-                        #print("<br>")
-                        #print(f'criteriun -> {_crt}')
-                        print("<br>")
+                        print('==== INITIALIZING WITH PARAMETERS: ====')
+                        print(f'model -> {_model}')
+                        print(f'epochs -> {_epochs}')
+                        print(f'lr -> {_lrs}')
+                        print(f'batch size -> {_batch}')
+                        print(f'optimizer -> {_opt}')
+                        print(f'criteriun -> {_crt}')
                         print()
 
                         feature_extract = True
@@ -558,33 +526,26 @@ for _model in _models:
                         # Send the model to GPU
                         model_ft = model_ft.to(device)
 
-                        #print('-'*20)
-                        #print("<br>")
+                        print('-'*20)
                         params_to_update = model_ft.parameters()
-                        #print("Params to learn:")
-                        #print("<br>")
+                        print("Params to learn:")
                         if feature_extract:
                             params_to_update = []
                             for name,param in model_ft.named_parameters():
                                 if param.requires_grad == True:
                                     params_to_update.append(param)
-                                    #print("\t",name)
-                                    #print("<br>")
+                                    print("\t",name)
 
                         else:
                             for name,param in model_ft.named_parameters():
                                 if param.requires_grad == True:
-                                    #print("\t",name)
-                                    print("<br>")
+                                    print("\t",name)
 
 
                         print()
-                        #print('-'*20)
-                        print(f'Treino: {treino}/45')
-                        print("<br>")
+                        print('-'*20)
                         print()
                         print('== Epochs ==')
-                        print("<br>")
 
                         if _opt == 1:
                             optimizer_ft = optim.SGD(params_to_update, _lrs, momentum=0.9)
@@ -615,7 +576,7 @@ for _model in _models:
                                                 num_epochs=_epochs, model_name=_model, lr=_lrs,
                                                 batch_size=_batch, opt_name=opt_name, crt_name=crt_name)
                         
-                        treino += 1
+                        
 
                         from sklearn.metrics import confusion_matrix
 
@@ -639,109 +600,42 @@ for _model in _models:
                         # Confusion matrix
                         conf_mat=confusion_matrix(lbllist.numpy(), predlist.numpy())
                         print(conf_mat)
-                        print("<br>")
                         print()
-                        print("<br>")
 
                         from sklearn import metrics
 
                         #analise dos resultados do modelo
                         print('Sensitivity or recall total')
-                        print("<br>")
                         print (metrics.recall_score(lbllist.numpy(), predlist.numpy(), average='micro'))
-                        print("<br>")
 
                         print()
                         print('Sensitivity or recall per classes')
-                        print("<br>")
                         print (metrics.recall_score(lbllist.numpy(), predlist.numpy(), average=None))
-                        print("<br>")
 
                         print()
                         print('Precision')
-                        print("<br>")
                         print (metrics.precision_score(lbllist.numpy(), predlist.numpy(), average=None))
-                        print("<br>")
 
                         print()
                         print('F1 Score')
-                        print("<br>")
                         print (metrics.f1_score(lbllist.numpy(), predlist.numpy(), average=None))
-                        
-                        print("<br>")
-                        print("#"*30)
-                        print("<br>")
+
                         cm = confusion_matrix(lbllist.numpy(), predlist.numpy())
                         np.set_printoptions(precision=2)
 
-                        plt.figure()
+                        #plt.figure()
 
-                        plot_confusion_matrix(cm, classes=['norm', 'covid', 'pneu'], 
-                        title='Confusion matrix '+_model)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
+                        plot_confusion_matrix(cm, 
+                                              classes=['norm', 'covid', 'pneu'], 
+                                              model=_model, 
+                                              opt_name=opt_name, 
+                                              crt_name=crt_name, 
+                                              lr=_lrs, 
+                                              batch_size=_batch)
+                       
 
 
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# 
-# 
-# 
-# Os resultados na matriz de confuzão e scores estão ruins, provavelmente pelo param.requires_grad = True 
-# 
-# Testar depois com False
-# 
-# **Peguei o código original**
-
-# In[42]:
-
-
-model_ft.eval()
-
-
-# In[45]:
-
-
-model_ft.eval()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
+# ## Continuando a partir da shuffle
 
 # In[ ]:
 

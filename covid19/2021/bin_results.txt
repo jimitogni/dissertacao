@@ -1,0 +1,12 @@
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  1988
+len_test_dir :  26
+len_val_dir :  497
+--------------------

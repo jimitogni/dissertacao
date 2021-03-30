@@ -1,0 +1,535 @@
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+optimizer -> 1
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+optimizer -> SGD
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 33s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[232   2   4]
+ [  0 263   8]
+ [  6  15 234]]
+
+Sensitivity or recall total
+0.9541884816753927
+
+Sensitivity or recall per classes
+[0.97478992 0.9704797  0.91764706]
+
+Precision
+[0.97478992 0.93928571 0.95121951]
+
+F1 Score
+[0.97478992 0.95462795 0.93413174]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+optimizer -> 2
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+optimizer -> ADAM
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 42s
+Best val Acc: 0.963351
+##############################
+
+==== END ====
+[[233   2   3]
+ [  0 259  12]
+ [  5  10 240]]
+
+Sensitivity or recall total
+0.9581151832460733
+
+Sensitivity or recall per classes
+[0.98 0.96 0.94]
+
+Precision
+[0.98 0.96 0.94]
+
+F1 Score
+[0.98 0.96 0.94]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+optimizer -> 3
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 8
+optimizer -> RMSprop
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 46s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[233   1   4]
+ [  0 263   8]
+ [  5  10 240]]
+
+Sensitivity or recall total
+0.9633507853403142
+
+Sensitivity or recall per classes
+[0.98 0.97 0.94]
+
+Precision
+[0.98 0.96 0.95]
+
+F1 Score
+[0.98 0.97 0.95]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+optimizer -> 1
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+optimizer -> SGD
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 47s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[231   1   6]
+ [  1 256  14]
+ [  5   9 241]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.97 0.94 0.95]
+
+Precision
+[0.97 0.96 0.92]
+
+F1 Score
+[0.97 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+optimizer -> 2
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+optimizer -> ADAM
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 41s
+Best val Acc: 0.964660
+##############################
+
+==== END ====
+[[231   1   6]
+ [  0 258  13]
+ [  5   8 242]]
+
+Sensitivity or recall total
+0.9568062827225131
+
+Sensitivity or recall per classes
+[0.97 0.95 0.95]
+
+Precision
+[0.98 0.97 0.93]
+
+F1 Score
+[0.97 0.96 0.94]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+optimizer -> 3
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 16
+optimizer -> RMSprop
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 43s
+Best val Acc: 0.965969
+##############################
+
+==== END ====
+[[233   1   4]
+ [  0 256  15]
+ [  4   7 244]]
+
+Sensitivity or recall total
+0.9594240837696335
+
+Sensitivity or recall per classes
+[0.98 0.94 0.96]
+
+Precision
+[0.98 0.97 0.93]
+
+F1 Score
+[0.98 0.96 0.94]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+optimizer -> 1
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+optimizer -> SGD
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 43s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[232   2   4]
+ [  0 260  11]
+ [  6  14 235]]
+
+Sensitivity or recall total
+0.9515706806282722
+
+Sensitivity or recall per classes
+[0.97 0.96 0.92]
+
+Precision
+[0.97 0.94 0.94]
+
+F1 Score
+[0.97 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+optimizer -> 2
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+optimizer -> ADAM
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 55s
+Best val Acc: 0.965969
+##############################
+
+==== END ====
+[[231   3   4]
+ [  0 261  10]
+ [  4  15 236]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.97 0.96 0.93]
+
+Precision
+[0.98 0.94 0.94]
+
+F1 Score
+[0.98 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+optimizer -> 3
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.001
+batch size -> 32
+optimizer -> RMSprop
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 40s
+Best val Acc: 0.967277
+##############################
+
+==== END ====
+[[229   2   7]
+ [  0 262   9]
+ [  5  10 240]]
+
+Sensitivity or recall total
+0.9568062827225131
+
+Sensitivity or recall per classes
+[0.96 0.97 0.94]
+
+Precision
+[0.98 0.96 0.94]
+
+F1 Score
+[0.97 0.96 0.94]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 8
+optimizer -> 1
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 8
+optimizer -> SGD
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 44s
+Best val Acc: 0.950262
+##############################
+
+==== END ====
+[[231   2   5]
+ [  1 251  19]
+ [  5  10 240]]
+
+Sensitivity or recall total
+0.9450261780104712
+
+Sensitivity or recall per classes
+[0.97 0.93 0.94]
+
+Precision
+[0.97 0.95 0.91]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+==== INITIALIZING WITH PARAMETERS: ====
+model -> squeezenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 8
+optimizer -> 2
+criteriun -> 1
+
+--------------------
+Params to learn:
+	 classifier.1.weight
+	 classifier.1.bias
+
+--------------------
+
+== Epochs ==
+
+##############################
+------ Summary ------
+model -> squeezenet
+epochs -> 100
+lr -> 0.0001
+batch size -> 8
+optimizer -> ADAM
+criteriun -> CrossEntropyLoss
+
+Training complete in 27m 38s
+Best val Acc: 0.956806
+##############################
+
+==== END ====

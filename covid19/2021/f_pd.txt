@@ -1,0 +1,1440 @@
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.976440
+
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.955497
+
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.964660
+
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.964660
+
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.964660
+
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.967277
+
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.955497
+
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.951571
+
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.950262
+
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : squeezenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.912304
+
+model : squeezenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.926702
+
+model : squeezenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.925393
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.972513
+
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.972513
+
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.972513
+
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.972513
+
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.969895
+
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.967277
+
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.971204
+
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.971204
+
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.971204
+
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.955497
+
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.963351
+
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.964660
+
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.965969
+
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.963351
+
+model : densenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.939791
+
+model : densenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.939791
+
+model : densenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.945026
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.955497
+
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.954188
+
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.952880
+
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.951571
+
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.954188
+
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.954188
+
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.954188
+
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : resnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.933246
+
+model : resnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.945026
+
+model : resnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.937173
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.939791
+
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.934555
+
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.937173
+
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.941099
+
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.937173
+
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.941099
+
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.938482
+
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.938482
+
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.937173
+
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.928010
+
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.925393
+
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.930628
+
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.925393
+
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.931937
+
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.922775
+
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.925393
+
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.924084
+
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.928010
+
+model : alexnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.910995
+
+model : alexnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.905759
+
+model : alexnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.905759
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.955497
+
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.950262
+
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.951571
+
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.955497
+
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.947644
+
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : vgg
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.934555
+
+model : vgg
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.942408
+
+model : vgg
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.952880
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.955497
+
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.954188
+
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.933246
+
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.948953
+
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.950262
+
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.933246
+
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.945026
+
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.947644
+
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.941099
+
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.950262
+
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.950262
+
+model : googlenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.912304
+
+model : googlenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.925393
+
+model : googlenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.921466
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.913613
+
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.945026
+
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.950262
+
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.909686
+
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.948953
+
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.951571
+
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.908377
+
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.952880
+
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.950262
+
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.613874
+
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.926702
+
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.925393
+
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.607330
+
+normal :  1341
+pneumonia :  1345
+covid :  1170
+Train, test, validation
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.964660
+
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.962042
+
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.964660
+
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.960733
+
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.964660
+
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.955497
+
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.954188
+
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.954188
+
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.959424
+
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.958115
+
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.956806
+
+model : mobilenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.926702
+
+model : mobilenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.938482
+
+model : mobilenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Best val Acc: 0.943717
+

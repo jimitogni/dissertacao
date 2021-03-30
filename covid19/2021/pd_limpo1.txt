@@ -1,0 +1,5266 @@
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 56s
+Best val Acc: 0.955497
+##############################
+
+==== END ====
+[[232   2   4]
+ [  0 258  13]
+ [  6  15 234]]
+
+Sensitivity or recall total
+0.9476439790575916
+
+Sensitivity or recall per classes
+[0.97478992 0.95202952 0.91764706]
+
+Precision
+[0.97478992 0.93818182 0.93227092]
+
+F1 Score
+[0.97478992 0.94505495 0.92490119]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 1s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[234   1   3]
+ [  0 256  15]
+ [  5  11 239]]
+
+Sensitivity or recall total
+0.9541884816753927
+
+Sensitivity or recall per classes
+[0.98 0.94 0.94]
+
+Precision
+[0.98 0.96 0.93]
+
+F1 Score
+[0.98 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 6s
+Best val Acc: 0.964660
+##############################
+
+==== END ====
+[[231   2   5]
+ [  1 258  12]
+ [  4   8 243]]
+
+Sensitivity or recall total
+0.9581151832460733
+
+Sensitivity or recall per classes
+[0.97 0.95 0.95]
+
+Precision
+[0.98 0.96 0.93]
+
+F1 Score
+[0.97 0.96 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[231   1   6]
+ [  0 257  14]
+ [  5  12 238]]
+
+Sensitivity or recall total
+0.9502617801047121
+
+Sensitivity or recall per classes
+[0.97 0.95 0.93]
+
+Precision
+[0.98 0.95 0.92]
+
+F1 Score
+[0.97 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 4s
+Best val Acc: 0.964660
+##############################
+
+==== END ====
+[[233   2   3]
+ [  0 256  15]
+ [  6   6 243]]
+
+Sensitivity or recall total
+0.9581151832460733
+
+Sensitivity or recall per classes
+[0.98 0.94 0.95]
+
+Precision
+[0.97 0.97 0.93]
+
+F1 Score
+[0.98 0.96 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 5s
+Best val Acc: 0.964660
+##############################
+
+==== END ====
+[[230   2   6]
+ [  0 256  15]
+ [  4   5 246]]
+
+Sensitivity or recall total
+0.9581151832460733
+
+Sensitivity or recall per classes
+[0.97 0.94 0.96]
+
+Precision
+[0.98 0.97 0.92]
+
+F1 Score
+[0.97 0.96 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 14s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[233   1   4]
+ [  1 259  11]
+ [  8  13 234]]
+
+Sensitivity or recall total
+0.9502617801047121
+
+Sensitivity or recall per classes
+[0.98 0.96 0.92]
+
+Precision
+[0.96 0.95 0.94]
+
+F1 Score
+[0.97 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 21s
+Best val Acc: 0.967277
+##############################
+
+==== END ====
+[[232   1   5]
+ [  0 259  12]
+ [  5   8 242]]
+
+Sensitivity or recall total
+0.9594240837696335
+
+Sensitivity or recall per classes
+[0.97 0.96 0.95]
+
+Precision
+[0.98 0.97 0.93]
+
+F1 Score
+[0.98 0.96 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 23s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[232   1   5]
+ [  0 253  18]
+ [  6   5 244]]
+
+Sensitivity or recall total
+0.9541884816753927
+
+Sensitivity or recall per classes
+[0.97 0.93 0.96]
+
+Precision
+[0.97 0.98 0.91]
+
+F1 Score
+[0.97 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 27s
+Best val Acc: 0.955497
+##############################
+
+==== END ====
+[[232   1   5]
+ [  1 255  15]
+ [  6  17 232]]
+
+Sensitivity or recall total
+0.9410994764397905
+
+Sensitivity or recall per classes
+[0.97 0.94 0.91]
+
+Precision
+[0.97 0.93 0.92]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 27s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[232   2   4]
+ [  1 255  15]
+ [  7  12 236]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.97 0.94 0.93]
+
+Precision
+[0.97 0.95 0.93]
+
+F1 Score
+[0.97 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 24s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[233   2   3]
+ [  0 261  10]
+ [  6  14 235]]
+
+Sensitivity or recall total
+0.9541884816753927
+
+Sensitivity or recall per classes
+[0.98 0.96 0.92]
+
+Precision
+[0.97 0.94 0.95]
+
+F1 Score
+[0.98 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 26s
+Best val Acc: 0.951571
+##############################
+
+==== END ====
+[[233   1   4]
+ [  1 253  17]
+ [  8  20 227]]
+
+Sensitivity or recall total
+0.9332460732984293
+
+Sensitivity or recall per classes
+[0.98 0.93 0.89]
+
+Precision
+[0.96 0.92 0.92]
+
+F1 Score
+[0.97 0.93 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 25s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[233   1   4]
+ [  0 262   9]
+ [  5  17 233]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.98 0.97 0.91]
+
+Precision
+[0.98 0.94 0.95]
+
+F1 Score
+[0.98 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 28s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[233   2   3]
+ [  0 252  19]
+ [  8  11 236]]
+
+Sensitivity or recall total
+0.943717277486911
+
+Sensitivity or recall per classes
+[0.98 0.93 0.93]
+
+Precision
+[0.97 0.95 0.91]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 24s
+Best val Acc: 0.950262
+##############################
+
+==== END ====
+[[232   1   5]
+ [  0 255  16]
+ [  7   7 241]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.97 0.94 0.95]
+
+Precision
+[0.97 0.97 0.92]
+
+F1 Score
+[0.97 0.96 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 25s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[232   1   5]
+ [  0 261  10]
+ [  5  14 236]]
+
+Sensitivity or recall total
+0.9541884816753927
+
+Sensitivity or recall per classes
+[0.97 0.96 0.93]
+
+Precision
+[0.98 0.95 0.94]
+
+F1 Score
+[0.98 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 22s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[231   1   6]
+ [  1 258  12]
+ [  5  12 238]]
+
+Sensitivity or recall total
+0.9515706806282722
+
+Sensitivity or recall per classes
+[0.97 0.95 0.93]
+
+Precision
+[0.97 0.95 0.93]
+
+F1 Score
+[0.97 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 21s
+Best val Acc: 0.912304
+##############################
+
+==== END ====
+[[225   6   7]
+ [  0 251  20]
+ [ 11  27 217]]
+
+Sensitivity or recall total
+0.9070680628272252
+
+Sensitivity or recall per classes
+[0.95 0.93 0.85]
+
+Precision
+[0.95 0.88 0.89]
+
+F1 Score
+[0.95 0.9  0.87]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 19s
+Best val Acc: 0.926702
+##############################
+
+==== END ====
+[[227   4   7]
+ [  0 254  17]
+ [  8  23 224]]
+
+Sensitivity or recall total
+0.9227748691099477
+
+Sensitivity or recall per classes
+[0.95 0.94 0.88]
+
+Precision
+[0.97 0.9  0.9 ]
+
+F1 Score
+[0.96 0.92 0.89]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 41s
+Best val Acc: 0.925393
+##############################
+
+==== END ====
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 7s
+Best val Acc: 0.972513
+##############################
+
+==== END ====
+[[234   2   2]
+ [  0 264   7]
+ [  3  16 236]]
+
+Sensitivity or recall total
+0.9607329842931938
+
+Sensitivity or recall per classes
+[0.98319328 0.97416974 0.9254902 ]
+
+Precision
+[0.98734177 0.93617021 0.96326531]
+
+F1 Score
+[0.98526316 0.95479204 0.944     ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.972513
+##############################
+
+==== END ====
+[[233   2   3]
+ [  0 257  14]
+ [  0  12 243]]
+
+Sensitivity or recall total
+0.9594240837696335
+
+Sensitivity or recall per classes
+[0.98 0.95 0.95]
+
+Precision
+[1.   0.95 0.93]
+
+F1 Score
+[0.99 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 27s
+Best val Acc: 0.972513
+##############################
+
+==== END ====
+[[231   2   5]
+ [  1 259  11]
+ [  1  12 242]]
+
+Sensitivity or recall total
+0.9581151832460733
+
+Sensitivity or recall per classes
+[0.97 0.96 0.95]
+
+Precision
+[0.99 0.95 0.94]
+
+F1 Score
+[0.98 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 27s
+Best val Acc: 0.972513
+##############################
+
+==== END ====
+[[233   4   1]
+ [  0 261  10]
+ [  4  15 236]]
+
+Sensitivity or recall total
+0.9554973821989529
+
+Sensitivity or recall per classes
+[0.98 0.96 0.93]
+
+Precision
+[0.98 0.93 0.96]
+
+F1 Score
+[0.98 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 30s
+Best val Acc: 0.969895
+##############################
+
+==== END ====
+[[235   1   2]
+ [  0 260  11]
+ [  1   8 246]]
+
+Sensitivity or recall total
+0.9698952879581152
+
+Sensitivity or recall per classes
+[0.99 0.96 0.96]
+
+Precision
+[1.   0.97 0.95]
+
+F1 Score
+[0.99 0.96 0.96]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.967277
+##############################
+
+==== END ====
+[[235   2   1]
+ [  1 251  19]
+ [  0   7 248]]
+
+Sensitivity or recall total
+0.9607329842931938
+
+Sensitivity or recall per classes
+[0.99 0.93 0.97]
+
+Precision
+[1.   0.97 0.93]
+
+F1 Score
+[0.99 0.95 0.95]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.971204
+##############################
+
+==== END ====
+[[235   2   1]
+ [  0 263   8]
+ [  3  16 236]]
+
+Sensitivity or recall total
+0.9607329842931938
+
+Sensitivity or recall per classes
+[0.99 0.97 0.93]
+
+Precision
+[0.99 0.94 0.96]
+
+F1 Score
+[0.99 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.971204
+##############################
+
+==== END ====
+[[234   2   2]
+ [  0 256  15]
+ [  1  12 242]]
+
+Sensitivity or recall total
+0.9581151832460733
+
+Sensitivity or recall per classes
+[0.98 0.94 0.95]
+
+Precision
+[1.   0.95 0.93]
+
+F1 Score
+[0.99 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 21s
+Best val Acc: 0.971204
+##############################
+
+==== END ====
+[[233   3   2]
+ [  0 258  13]
+ [  0  14 241]]
+
+Sensitivity or recall total
+0.9581151832460733
+
+Sensitivity or recall per classes
+[0.98 0.95 0.95]
+
+Precision
+[1.   0.94 0.94]
+
+F1 Score
+[0.99 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 25s
+Best val Acc: 0.955497
+##############################
+
+==== END ====
+[[232   2   4]
+ [  1 257  13]
+ [  2  18 235]]
+
+Sensitivity or recall total
+0.9476439790575916
+
+Sensitivity or recall per classes
+[0.97 0.95 0.92]
+
+Precision
+[0.99 0.93 0.93]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 25s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[233   2   3]
+ [  1 259  11]
+ [  1  14 240]]
+
+Sensitivity or recall total
+0.9581151832460733
+
+Sensitivity or recall per classes
+[0.98 0.96 0.94]
+
+Precision
+[0.99 0.94 0.94]
+
+F1 Score
+[0.99 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 24s
+Best val Acc: 0.963351
+##############################
+
+==== END ====
+[[232   2   4]
+ [  0 259  12]
+ [  1  15 239]]
+
+Sensitivity or recall total
+0.9554973821989529
+
+Sensitivity or recall per classes
+[0.97 0.96 0.94]
+
+Precision
+[1.   0.94 0.94]
+
+F1 Score
+[0.99 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 21s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[233   2   3]
+ [  1 260  10]
+ [  0  19 236]]
+
+Sensitivity or recall total
+0.9541884816753927
+
+Sensitivity or recall per classes
+[0.98 0.96 0.93]
+
+Precision
+[1.   0.93 0.95]
+
+F1 Score
+[0.99 0.94 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 15s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[235   2   1]
+ [  0 259  12]
+ [  2  17 236]]
+
+Sensitivity or recall total
+0.9554973821989529
+
+Sensitivity or recall per classes
+[0.99 0.96 0.93]
+
+Precision
+[0.99 0.93 0.95]
+
+F1 Score
+[0.99 0.94 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 23s
+Best val Acc: 0.964660
+##############################
+
+==== END ====
+[[234   1   3]
+ [  0 259  12]
+ [  1  13 241]]
+
+Sensitivity or recall total
+0.9607329842931938
+
+Sensitivity or recall per classes
+[0.98 0.96 0.95]
+
+Precision
+[1.   0.95 0.94]
+
+F1 Score
+[0.99 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 25s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[233   2   3]
+ [  1 260  10]
+ [  0  17 238]]
+
+Sensitivity or recall total
+0.9568062827225131
+
+Sensitivity or recall per classes
+[0.98 0.96 0.93]
+
+Precision
+[1.   0.93 0.95]
+
+F1 Score
+[0.99 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 20s
+Best val Acc: 0.965969
+##############################
+
+==== END ====
+[[234   2   2]
+ [  0 261  10]
+ [  2  20 233]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.98 0.96 0.91]
+
+Precision
+[0.99 0.92 0.95]
+
+F1 Score
+[0.99 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 23s
+Best val Acc: 0.963351
+##############################
+
+==== END ====
+[[235   2   1]
+ [  0 261  10]
+ [  2  14 239]]
+
+Sensitivity or recall total
+0.9620418848167539
+
+Sensitivity or recall per classes
+[0.99 0.96 0.94]
+
+Precision
+[0.99 0.94 0.96]
+
+F1 Score
+[0.99 0.95 0.95]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 20s
+Best val Acc: 0.939791
+##############################
+
+==== END ====
+[[231   2   5]
+ [  2 257  12]
+ [  6  24 225]]
+
+Sensitivity or recall total
+0.9332460732984293
+
+Sensitivity or recall per classes
+[0.97 0.95 0.88]
+
+Precision
+[0.97 0.91 0.93]
+
+F1 Score
+[0.97 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 19s
+Best val Acc: 0.939791
+##############################
+
+==== END ====
+[[231   2   5]
+ [  3 248  20]
+ [  3  24 228]]
+
+Sensitivity or recall total
+0.925392670157068
+
+Sensitivity or recall per classes
+[0.97 0.92 0.89]
+
+Precision
+[0.97 0.91 0.9 ]
+
+F1 Score
+[0.97 0.91 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 17s
+Best val Acc: 0.945026
+##############################
+
+==== END ====
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 6s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[233   2   3]
+ [  1 257  13]
+ [  2  15 238]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.9789916  0.94833948 0.93333333]
+
+Precision
+[0.98728814 0.9379562  0.93700787]
+
+F1 Score
+[0.98312236 0.94311927 0.93516699]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 20s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[233   3   2]
+ [  4 254  13]
+ [  5  12 238]]
+
+Sensitivity or recall total
+0.9489528795811518
+
+Sensitivity or recall per classes
+[0.98 0.94 0.93]
+
+Precision
+[0.96 0.94 0.94]
+
+F1 Score
+[0.97 0.94 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 14s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[231   3   4]
+ [  0 260  11]
+ [  2  11 242]]
+
+Sensitivity or recall total
+0.9594240837696335
+
+Sensitivity or recall per classes
+[0.97 0.96 0.95]
+
+Precision
+[0.99 0.95 0.94]
+
+F1 Score
+[0.98 0.95 0.95]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 17s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[230   4   4]
+ [  0 262   9]
+ [  4  22 229]]
+
+Sensitivity or recall total
+0.943717277486911
+
+Sensitivity or recall per classes
+[0.97 0.97 0.9 ]
+
+Precision
+[0.98 0.91 0.95]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 21s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[232   3   3]
+ [  1 259  11]
+ [  2  10 243]]
+
+Sensitivity or recall total
+0.9607329842931938
+
+Sensitivity or recall per classes
+[0.97 0.96 0.95]
+
+Precision
+[0.99 0.95 0.95]
+
+F1 Score
+[0.98 0.95 0.95]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 16s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[233   2   3]
+ [  2 251  18]
+ [  5  13 237]]
+
+Sensitivity or recall total
+0.943717277486911
+
+Sensitivity or recall per classes
+[0.98 0.93 0.93]
+
+Precision
+[0.97 0.94 0.92]
+
+F1 Score
+[0.97 0.93 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 16s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[232   4   2]
+ [  1 260  10]
+ [  4  16 235]]
+
+Sensitivity or recall total
+0.9515706806282722
+
+Sensitivity or recall per classes
+[0.97 0.96 0.92]
+
+Precision
+[0.98 0.93 0.95]
+
+F1 Score
+[0.98 0.94 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 19s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[231   3   4]
+ [  0 258  13]
+ [  0  16 239]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.97 0.95 0.94]
+
+Precision
+[1.   0.93 0.93]
+
+F1 Score
+[0.99 0.94 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.955497
+##############################
+
+==== END ====
+[[233   2   3]
+ [  0 261  10]
+ [  3  20 232]]
+
+Sensitivity or recall total
+0.9502617801047121
+
+Sensitivity or recall per classes
+[0.98 0.96 0.91]
+
+Precision
+[0.99 0.92 0.95]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.954188
+##############################
+
+==== END ====
+[[229   4   5]
+ [  3 256  12]
+ [  4  21 230]]
+
+Sensitivity or recall total
+0.9358638743455497
+
+Sensitivity or recall per classes
+[0.96 0.94 0.9 ]
+
+Precision
+[0.97 0.91 0.93]
+
+F1 Score
+[0.97 0.93 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 16s
+Best val Acc: 0.952880
+##############################
+
+==== END ====
+[[232   3   3]
+ [  2 258  11]
+ [  5  19 231]]
+
+Sensitivity or recall total
+0.943717277486911
+
+Sensitivity or recall per classes
+[0.97 0.95 0.91]
+
+Precision
+[0.97 0.92 0.94]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.951571
+##############################
+
+==== END ====
+[[233   3   2]
+ [  1 256  14]
+ [  5  19 231]]
+
+Sensitivity or recall total
+0.9424083769633508
+
+Sensitivity or recall per classes
+[0.98 0.94 0.91]
+
+Precision
+[0.97 0.92 0.94]
+
+F1 Score
+[0.98 0.93 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 12s
+Best val Acc: 0.954188
+##############################
+
+==== END ====
+[[230   4   4]
+ [  2 255  14]
+ [  4  20 231]]
+
+Sensitivity or recall total
+0.93717277486911
+
+Sensitivity or recall per classes
+[0.97 0.94 0.91]
+
+Precision
+[0.97 0.91 0.93]
+
+F1 Score
+[0.97 0.93 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[228   4   6]
+ [  0 258  13]
+ [  5  23 227]]
+
+Sensitivity or recall total
+0.9332460732984293
+
+Sensitivity or recall per classes
+[0.96 0.95 0.89]
+
+Precision
+[0.98 0.91 0.92]
+
+F1 Score
+[0.97 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.954188
+##############################
+
+==== END ====
+[[233   2   3]
+ [  0 253  18]
+ [  5  14 236]]
+
+Sensitivity or recall total
+0.9450261780104712
+
+Sensitivity or recall per classes
+[0.98 0.93 0.93]
+
+Precision
+[0.98 0.94 0.92]
+
+F1 Score
+[0.98 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 10s
+Best val Acc: 0.954188
+##############################
+
+==== END ====
+[[228   3   7]
+ [  0 256  15]
+ [  2  20 233]]
+
+Sensitivity or recall total
+0.9384816753926701
+
+Sensitivity or recall per classes
+[0.96 0.94 0.91]
+
+Precision
+[0.99 0.92 0.91]
+
+F1 Score
+[0.97 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[230   3   5]
+ [  0 261  10]
+ [  5  19 231]]
+
+Sensitivity or recall total
+0.9450261780104712
+
+Sensitivity or recall per classes
+[0.97 0.96 0.91]
+
+Precision
+[0.98 0.92 0.94]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 8s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[229   4   5]
+ [  0 259  12]
+ [  3  17 235]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.96 0.96 0.92]
+
+Precision
+[0.99 0.93 0.93]
+
+F1 Score
+[0.97 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 12s
+Best val Acc: 0.933246
+##############################
+
+==== END ====
+[[229   3   6]
+ [  1 252  18]
+ [  6  23 226]]
+
+Sensitivity or recall total
+0.925392670157068
+
+Sensitivity or recall per classes
+[0.96 0.93 0.89]
+
+Precision
+[0.97 0.91 0.9 ]
+
+F1 Score
+[0.97 0.92 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.945026
+##############################
+
+==== END ====
+[[225   4   9]
+ [  1 253  17]
+ [  8  19 228]]
+
+Sensitivity or recall total
+0.9240837696335078
+
+Sensitivity or recall per classes
+[0.95 0.93 0.89]
+
+Precision
+[0.96 0.92 0.9 ]
+
+F1 Score
+[0.95 0.93 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.937173
+##############################
+
+==== END ====
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 14s
+Best val Acc: 0.939791
+##############################
+
+==== END ====
+[[226   3   9]
+ [  0 252  19]
+ [  5  19 231]]
+
+Sensitivity or recall total
+0.9280104712041884
+
+Sensitivity or recall per classes
+[0.94957983 0.9298893  0.90588235]
+
+Precision
+[0.97835498 0.91970803 0.89189189]
+
+F1 Score
+[0.96375267 0.92477064 0.89883268]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 17s
+Best val Acc: 0.934555
+##############################
+
+==== END ====
+[[223   3  12]
+ [  0 257  14]
+ [  2  23 230]]
+
+Sensitivity or recall total
+0.9293193717277487
+
+Sensitivity or recall per classes
+[0.94 0.95 0.9 ]
+
+Precision
+[0.99 0.91 0.9 ]
+
+F1 Score
+[0.96 0.93 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 17s
+Best val Acc: 0.937173
+##############################
+
+==== END ====
+[[223   4  11]
+ [  0 259  12]
+ [  2  17 236]]
+
+Sensitivity or recall total
+0.9397905759162304
+
+Sensitivity or recall per classes
+[0.94 0.96 0.93]
+
+Precision
+[0.99 0.93 0.91]
+
+F1 Score
+[0.96 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 20s
+Best val Acc: 0.941099
+##############################
+
+==== END ====
+[[227   2   9]
+ [  1 251  19]
+ [  2  21 232]]
+
+Sensitivity or recall total
+0.9293193717277487
+
+Sensitivity or recall per classes
+[0.95 0.93 0.91]
+
+Precision
+[0.99 0.92 0.89]
+
+F1 Score
+[0.97 0.92 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 18s
+Best val Acc: 0.937173
+##############################
+
+==== END ====
+[[223   0  15]
+ [  0 249  22]
+ [  4  12 239]]
+
+Sensitivity or recall total
+0.930628272251309
+
+Sensitivity or recall per classes
+[0.94 0.92 0.94]
+
+Precision
+[0.98 0.95 0.87]
+
+F1 Score
+[0.96 0.94 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 23s
+Best val Acc: 0.941099
+##############################
+
+==== END ====
+[[225   1  12]
+ [  0 249  22]
+ [  5  17 233]]
+
+Sensitivity or recall total
+0.925392670157068
+
+Sensitivity or recall per classes
+[0.95 0.92 0.91]
+
+Precision
+[0.98 0.93 0.87]
+
+F1 Score
+[0.96 0.93 0.89]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 24s
+Best val Acc: 0.938482
+##############################
+
+==== END ====
+[[225   1  12]
+ [  0 252  19]
+ [  2  21 232]]
+
+Sensitivity or recall total
+0.9280104712041884
+
+Sensitivity or recall per classes
+[0.95 0.93 0.91]
+
+Precision
+[0.99 0.92 0.88]
+
+F1 Score
+[0.97 0.92 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 20s
+Best val Acc: 0.938482
+##############################
+
+==== END ====
+[[227   2   9]
+ [  0 248  23]
+ [  2  14 239]]
+
+Sensitivity or recall total
+0.9345549738219895
+
+Sensitivity or recall per classes
+[0.95 0.92 0.94]
+
+Precision
+[0.99 0.94 0.88]
+
+F1 Score
+[0.97 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 23s
+Best val Acc: 0.937173
+##############################
+
+==== END ====
+[[231   2   5]
+ [  1 250  20]
+ [  6  15 234]]
+
+Sensitivity or recall total
+0.9358638743455497
+
+Sensitivity or recall per classes
+[0.97 0.92 0.92]
+
+Precision
+[0.97 0.94 0.9 ]
+
+F1 Score
+[0.97 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 24s
+Best val Acc: 0.928010
+##############################
+
+==== END ====
+[[217   5  16]
+ [  0 258  13]
+ [  3  32 220]]
+
+Sensitivity or recall total
+0.9096858638743456
+
+Sensitivity or recall per classes
+[0.91 0.95 0.86]
+
+Precision
+[0.99 0.87 0.88]
+
+F1 Score
+[0.95 0.91 0.87]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 26s
+Best val Acc: 0.925393
+##############################
+
+==== END ====
+[[217   6  15]
+ [  0 259  12]
+ [  3  32 220]]
+
+Sensitivity or recall total
+0.9109947643979057
+
+Sensitivity or recall per classes
+[0.91 0.96 0.86]
+
+Precision
+[0.99 0.87 0.89]
+
+F1 Score
+[0.95 0.91 0.88]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 25s
+Best val Acc: 0.930628
+##############################
+
+==== END ====
+[[214   3  21]
+ [  0 251  20]
+ [  2  22 231]]
+
+Sensitivity or recall total
+0.9109947643979057
+
+Sensitivity or recall per classes
+[0.9  0.93 0.91]
+
+Precision
+[0.99 0.91 0.85]
+
+F1 Score
+[0.94 0.92 0.88]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 24s
+Best val Acc: 0.925393
+##############################
+
+==== END ====
+[[226   4   8]
+ [  0 247  24]
+ [  6  26 223]]
+
+Sensitivity or recall total
+0.9109947643979057
+
+Sensitivity or recall per classes
+[0.95 0.91 0.87]
+
+Precision
+[0.97 0.89 0.87]
+
+F1 Score
+[0.96 0.9  0.87]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 28s
+Best val Acc: 0.931937
+##############################
+
+==== END ====
+[[218   5  15]
+ [  0 256  15]
+ [  3  29 223]]
+
+Sensitivity or recall total
+0.912303664921466
+
+Sensitivity or recall per classes
+[0.92 0.94 0.87]
+
+Precision
+[0.99 0.88 0.88]
+
+F1 Score
+[0.95 0.91 0.88]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 33s
+Best val Acc: 0.922775
+##############################
+
+==== END ====
+[[223   4  11]
+ [  0 255  16]
+ [  4  29 222]]
+
+Sensitivity or recall total
+0.9162303664921466
+
+Sensitivity or recall per classes
+[0.94 0.94 0.87]
+
+Precision
+[0.98 0.89 0.89]
+
+F1 Score
+[0.96 0.91 0.88]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 34s
+Best val Acc: 0.925393
+##############################
+
+==== END ====
+[[222   3  13]
+ [  0 251  20]
+ [  5  25 225]]
+
+Sensitivity or recall total
+0.9136125654450262
+
+Sensitivity or recall per classes
+[0.93 0.93 0.88]
+
+Precision
+[0.98 0.9  0.87]
+
+F1 Score
+[0.95 0.91 0.88]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 36s
+Best val Acc: 0.924084
+##############################
+
+==== END ====
+[[218   3  17]
+ [  0 254  17]
+ [  3  22 230]]
+
+Sensitivity or recall total
+0.918848167539267
+
+Sensitivity or recall per classes
+[0.92 0.94 0.9 ]
+
+Precision
+[0.99 0.91 0.87]
+
+F1 Score
+[0.95 0.92 0.89]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 36s
+Best val Acc: 0.928010
+##############################
+
+==== END ====
+[[223   3  12]
+ [  0 252  19]
+ [  6  26 223]]
+
+Sensitivity or recall total
+0.9136125654450262
+
+Sensitivity or recall per classes
+[0.94 0.93 0.87]
+
+Precision
+[0.97 0.9  0.88]
+
+F1 Score
+[0.96 0.91 0.88]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 39s
+Best val Acc: 0.910995
+##############################
+
+==== END ====
+[[216   5  17]
+ [  1 249  21]
+ [  8  30 217]]
+
+Sensitivity or recall total
+0.8926701570680629
+
+Sensitivity or recall per classes
+[0.91 0.92 0.85]
+
+Precision
+[0.96 0.88 0.85]
+
+F1 Score
+[0.93 0.9  0.85]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 36s
+Best val Acc: 0.905759
+##############################
+
+==== END ====
+[[216   4  18]
+ [  1 248  22]
+ [  5  33 217]]
+
+Sensitivity or recall total
+0.8913612565445026
+
+Sensitivity or recall per classes
+[0.91 0.92 0.85]
+
+Precision
+[0.97 0.87 0.84]
+
+F1 Score
+[0.94 0.89 0.85]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 39s
+Best val Acc: 0.905759
+##############################
+
+==== END ====
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 1s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[234   2   2]
+ [  0 259  12]
+ [  4  21 230]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.98319328 0.95571956 0.90196078]
+
+Precision
+[0.98319328 0.91843972 0.94262295]
+
+F1 Score
+[0.98319328 0.93670886 0.92184369]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 33s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[234   3   1]
+ [  0 259  12]
+ [  4  16 235]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.98 0.96 0.92]
+
+Precision
+[0.98 0.93 0.95]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 32s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[233   3   2]
+ [  0 263   8]
+ [  4  18 233]]
+
+Sensitivity or recall total
+0.9541884816753927
+
+Sensitivity or recall per classes
+[0.98 0.97 0.91]
+
+Precision
+[0.98 0.93 0.96]
+
+F1 Score
+[0.98 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 37s
+Best val Acc: 0.955497
+##############################
+
+==== END ====
+[[232   3   3]
+ [  0 257  14]
+ [  2  19 234]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.97 0.95 0.92]
+
+Precision
+[0.99 0.92 0.93]
+
+F1 Score
+[0.98 0.93 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 34s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[231   3   4]
+ [  0 256  15]
+ [  2  15 238]]
+
+Sensitivity or recall total
+0.9489528795811518
+
+Sensitivity or recall per classes
+[0.97 0.94 0.93]
+
+Precision
+[0.99 0.93 0.93]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 30s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[230   2   6]
+ [  0 247  24]
+ [  4  10 241]]
+
+Sensitivity or recall total
+0.9397905759162304
+
+Sensitivity or recall per classes
+[0.97 0.91 0.95]
+
+Precision
+[0.98 0.95 0.89]
+
+F1 Score
+[0.97 0.93 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 32s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[231   2   5]
+ [  0 257  14]
+ [  4  16 235]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.97 0.95 0.92]
+
+Precision
+[0.98 0.93 0.93]
+
+F1 Score
+[0.98 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 32s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[231   3   4]
+ [  0 260  11]
+ [  6  16 233]]
+
+Sensitivity or recall total
+0.9476439790575916
+
+Sensitivity or recall per classes
+[0.97 0.96 0.91]
+
+Precision
+[0.97 0.93 0.94]
+
+F1 Score
+[0.97 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[232   2   4]
+ [  0 263   8]
+ [  4  13 238]]
+
+Sensitivity or recall total
+0.9594240837696335
+
+Sensitivity or recall per classes
+[0.97 0.97 0.93]
+
+Precision
+[0.98 0.95 0.95]
+
+F1 Score
+[0.98 0.96 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 26s
+Best val Acc: 0.950262
+##############################
+
+==== END ====
+[[230   2   6]
+ [  0 256  15]
+ [  8  22 225]]
+
+Sensitivity or recall total
+0.930628272251309
+
+Sensitivity or recall per classes
+[0.97 0.94 0.88]
+
+Precision
+[0.97 0.91 0.91]
+
+F1 Score
+[0.97 0.93 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 24s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[232   4   2]
+ [  0 260  11]
+ [  4  19 232]]
+
+Sensitivity or recall total
+0.9476439790575916
+
+Sensitivity or recall per classes
+[0.97 0.96 0.91]
+
+Precision
+[0.98 0.92 0.95]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 21s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[232   3   3]
+ [  0 259  12]
+ [  3  20 232]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.97 0.96 0.91]
+
+Precision
+[0.99 0.92 0.94]
+
+F1 Score
+[0.98 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 22s
+Best val Acc: 0.951571
+##############################
+
+==== END ====
+[[232   4   2]
+ [  0 259  12]
+ [  4  26 225]]
+
+Sensitivity or recall total
+0.93717277486911
+
+Sensitivity or recall per classes
+[0.97 0.96 0.88]
+
+Precision
+[0.98 0.9  0.94]
+
+F1 Score
+[0.98 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 18s
+Best val Acc: 0.955497
+##############################
+
+==== END ====
+[[231   5   2]
+ [  0 261  10]
+ [  4  19 232]]
+
+Sensitivity or recall total
+0.9476439790575916
+
+Sensitivity or recall per classes
+[0.97 0.96 0.91]
+
+Precision
+[0.98 0.92 0.95]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 16s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[233   2   3]
+ [  0 260  11]
+ [  4  20 231]]
+
+Sensitivity or recall total
+0.9476439790575916
+
+Sensitivity or recall per classes
+[0.98 0.96 0.91]
+
+Precision
+[0.98 0.92 0.94]
+
+F1 Score
+[0.98 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 17s
+Best val Acc: 0.947644
+##############################
+
+==== END ====
+[[233   3   2]
+ [  1 261   9]
+ [  5  26 224]]
+
+Sensitivity or recall total
+0.9397905759162304
+
+Sensitivity or recall per classes
+[0.98 0.96 0.88]
+
+Precision
+[0.97 0.9  0.95]
+
+F1 Score
+[0.98 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 16s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[234   3   1]
+ [  0 259  12]
+ [  5  13 237]]
+
+Sensitivity or recall total
+0.9554973821989529
+
+Sensitivity or recall per classes
+[0.98 0.96 0.93]
+
+Precision
+[0.98 0.94 0.95]
+
+F1 Score
+[0.98 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 18s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[233   3   2]
+ [  1 257  13]
+ [  4  18 233]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.98 0.95 0.91]
+
+Precision
+[0.98 0.92 0.94]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 23s
+Best val Acc: 0.934555
+##############################
+
+==== END ====
+[[228   4   6]
+ [  0 253  18]
+ [  5  30 220]]
+
+Sensitivity or recall total
+0.9175392670157068
+
+Sensitivity or recall per classes
+[0.96 0.93 0.86]
+
+Precision
+[0.98 0.88 0.9 ]
+
+F1 Score
+[0.97 0.91 0.88]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 22s
+Best val Acc: 0.942408
+##############################
+
+==== END ====
+[[233   3   2]
+ [  0 257  14]
+ [  6  27 222]]
+
+Sensitivity or recall total
+0.9319371727748691
+
+Sensitivity or recall per classes
+[0.98 0.95 0.87]
+
+Precision
+[0.97 0.9  0.93]
+
+F1 Score
+[0.98 0.92 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 19s
+Best val Acc: 0.952880
+##############################
+
+==== END ====
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 15s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[229   3   6]
+ [  0 257  14]
+ [  4  12 239]]
+
+Sensitivity or recall total
+0.9489528795811518
+
+Sensitivity or recall per classes
+[0.96218487 0.94833948 0.9372549 ]
+
+Precision
+[0.98283262 0.94485294 0.92277992]
+
+F1 Score
+[0.97239915 0.946593   0.92996109]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 26s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[232   3   3]
+ [  3 252  16]
+ [  3  14 238]]
+
+Sensitivity or recall total
+0.9450261780104712
+
+Sensitivity or recall per classes
+[0.97 0.93 0.93]
+
+Precision
+[0.97 0.94 0.93]
+
+F1 Score
+[0.97 0.93 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 27s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[232   3   3]
+ [  0 258  13]
+ [  1  17 237]]
+
+Sensitivity or recall total
+0.9515706806282722
+
+Sensitivity or recall per classes
+[0.97 0.95 0.93]
+
+Precision
+[1.   0.93 0.94]
+
+F1 Score
+[0.99 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 27s
+Best val Acc: 0.955497
+##############################
+
+==== END ====
+[[230   3   5]
+ [  1 264   6]
+ [  5  21 229]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.97 0.97 0.9 ]
+
+Precision
+[0.97 0.92 0.95]
+
+F1 Score
+[0.97 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 30s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[230   2   6]
+ [  2 256  13]
+ [  1  18 236]]
+
+Sensitivity or recall total
+0.9450261780104712
+
+Sensitivity or recall per classes
+[0.97 0.94 0.93]
+
+Precision
+[0.99 0.93 0.93]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 40s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[232   3   3]
+ [  0 257  14]
+ [  2  16 237]]
+
+Sensitivity or recall total
+0.9502617801047121
+
+Sensitivity or recall per classes
+[0.97 0.95 0.93]
+
+Precision
+[0.99 0.93 0.93]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 34s
+Best val Acc: 0.954188
+##############################
+
+==== END ====
+[[230   3   5]
+ [  1 258  12]
+ [  3  18 234]]
+
+Sensitivity or recall total
+0.9450261780104712
+
+Sensitivity or recall per classes
+[0.97 0.95 0.92]
+
+Precision
+[0.98 0.92 0.93]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 38s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[231   1   6]
+ [  1 253  17]
+ [  4  12 239]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.97 0.93 0.94]
+
+Precision
+[0.98 0.95 0.91]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[234   2   2]
+ [  0 260  11]
+ [  2  18 235]]
+
+Sensitivity or recall total
+0.9541884816753927
+
+Sensitivity or recall per classes
+[0.98 0.96 0.92]
+
+Precision
+[0.99 0.93 0.95]
+
+F1 Score
+[0.99 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 46s
+Best val Acc: 0.933246
+##############################
+
+==== END ====
+[[228   3   7]
+ [  5 246  20]
+ [  8  18 229]]
+
+Sensitivity or recall total
+0.9201570680628273
+
+Sensitivity or recall per classes
+[0.96 0.91 0.9 ]
+
+Precision
+[0.95 0.92 0.89]
+
+F1 Score
+[0.95 0.91 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 52s
+Best val Acc: 0.948953
+##############################
+
+==== END ====
+[[227   5   6]
+ [  1 250  20]
+ [  2  19 234]]
+
+Sensitivity or recall total
+0.930628272251309
+
+Sensitivity or recall per classes
+[0.95 0.92 0.92]
+
+Precision
+[0.99 0.91 0.9 ]
+
+F1 Score
+[0.97 0.92 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 51s
+Best val Acc: 0.950262
+##############################
+
+==== END ====
+[[229   3   6]
+ [  0 255  16]
+ [  7  17 231]]
+
+Sensitivity or recall total
+0.9358638743455497
+
+Sensitivity or recall per classes
+[0.96 0.94 0.91]
+
+Precision
+[0.97 0.93 0.91]
+
+F1 Score
+[0.97 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 56s
+Best val Acc: 0.933246
+##############################
+
+==== END ====
+[[226   2  10]
+ [  2 245  24]
+ [ 11  21 223]]
+
+Sensitivity or recall total
+0.9083769633507853
+
+Sensitivity or recall per classes
+[0.95 0.9  0.87]
+
+Precision
+[0.95 0.91 0.87]
+
+F1 Score
+[0.95 0.91 0.87]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 54s
+Best val Acc: 0.945026
+##############################
+
+==== END ====
+[[231   3   4]
+ [  0 255  16]
+ [  5  17 233]]
+
+Sensitivity or recall total
+0.9410994764397905
+
+Sensitivity or recall per classes
+[0.97 0.94 0.91]
+
+Precision
+[0.98 0.93 0.92]
+
+F1 Score
+[0.97 0.93 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 57s
+Best val Acc: 0.947644
+##############################
+
+==== END ====
+[[228   4   6]
+ [  1 255  15]
+ [  2  15 238]]
+
+Sensitivity or recall total
+0.943717277486911
+
+Sensitivity or recall per classes
+[0.96 0.94 0.93]
+
+Precision
+[0.99 0.93 0.92]
+
+F1 Score
+[0.97 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 58s
+Best val Acc: 0.941099
+##############################
+
+==== END ====
+[[228   4   6]
+ [  2 249  20]
+ [  7  20 228]]
+
+Sensitivity or recall total
+0.9227748691099477
+
+Sensitivity or recall per classes
+[0.96 0.92 0.89]
+
+Precision
+[0.96 0.91 0.9 ]
+
+F1 Score
+[0.96 0.92 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 58s
+Best val Acc: 0.950262
+##############################
+
+==== END ====
+[[231   3   4]
+ [  2 257  12]
+ [  8  19 228]]
+
+Sensitivity or recall total
+0.93717277486911
+
+Sensitivity or recall per classes
+[0.97 0.95 0.89]
+
+Precision
+[0.96 0.92 0.93]
+
+F1 Score
+[0.96 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 58s
+Best val Acc: 0.950262
+##############################
+
+==== END ====
+[[228   3   7]
+ [  2 255  14]
+ [  3  16 236]]
+
+Sensitivity or recall total
+0.9410994764397905
+
+Sensitivity or recall per classes
+[0.96 0.94 0.93]
+
+Precision
+[0.98 0.93 0.92]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 29m 1s
+Best val Acc: 0.912304
+##############################
+
+==== END ====
+[[223   5  10]
+ [  2 247  22]
+ [ 17  33 205]]
+
+Sensitivity or recall total
+0.8835078534031413
+
+Sensitivity or recall per classes
+[0.94 0.91 0.8 ]
+
+Precision
+[0.92 0.87 0.86]
+
+F1 Score
+[0.93 0.89 0.83]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 54s
+Best val Acc: 0.925393
+##############################
+
+==== END ====
+[[227   2   9]
+ [  1 238  32]
+ [ 11  26 218]]
+
+Sensitivity or recall total
+0.893979057591623
+
+Sensitivity or recall per classes
+[0.95 0.88 0.85]
+
+Precision
+[0.95 0.89 0.84]
+
+F1 Score
+[0.95 0.89 0.85]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 54s
+Best val Acc: 0.921466
+##############################
+
+==== END ====
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 42s
+Best val Acc: 0.913613
+##############################
+
+==== END ====
+[[214   9  15]
+ [  0 249  22]
+ [  8  30 217]]
+
+Sensitivity or recall total
+0.8900523560209425
+
+Sensitivity or recall per classes
+[0.89915966 0.91881919 0.85098039]
+
+Precision
+[0.96396396 0.86458333 0.85433071]
+
+F1 Score
+[0.93043478 0.89087657 0.85265226]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 53s
+Best val Acc: 0.945026
+##############################
+
+==== END ====
+[[232   2   4]
+ [  1 255  15]
+ [  8  21 226]]
+
+Sensitivity or recall total
+0.9332460732984293
+
+Sensitivity or recall per classes
+[0.97 0.94 0.89]
+
+Precision
+[0.96 0.92 0.92]
+
+F1 Score
+[0.97 0.93 0.9 ]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 54s
+Best val Acc: 0.950262
+##############################
+
+==== END ====
+[[233   2   3]
+ [  1 255  15]
+ [  4  23 228]]
+
+Sensitivity or recall total
+0.93717277486911
+
+Sensitivity or recall per classes
+[0.98 0.94 0.89]
+
+Precision
+[0.98 0.91 0.93]
+
+F1 Score
+[0.98 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 56s
+Best val Acc: 0.909686
+##############################
+
+==== END ====
+[[224   7   7]
+ [  0 254  17]
+ [ 10  37 208]]
+
+Sensitivity or recall total
+0.8979057591623036
+
+Sensitivity or recall per classes
+[0.94 0.94 0.82]
+
+Precision
+[0.96 0.85 0.9 ]
+
+F1 Score
+[0.95 0.89 0.85]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 53s
+Best val Acc: 0.948953
+##############################
+
+==== END ====
+[[231   4   3]
+ [  3 250  18]
+ [  4  21 230]]
+
+Sensitivity or recall total
+0.930628272251309
+
+Sensitivity or recall per classes
+[0.97 0.92 0.9 ]
+
+Precision
+[0.97 0.91 0.92]
+
+F1 Score
+[0.97 0.92 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 50s
+Best val Acc: 0.951571
+##############################
+
+==== END ====
+[[233   2   3]
+ [  1 258  12]
+ [  5  23 227]]
+
+Sensitivity or recall total
+0.9397905759162304
+
+Sensitivity or recall per classes
+[0.98 0.95 0.89]
+
+Precision
+[0.97 0.91 0.94]
+
+F1 Score
+[0.98 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 49s
+Best val Acc: 0.908377
+##############################
+
+==== END ====
+[[221   8   9]
+ [  2 251  18]
+ [  7  31 217]]
+
+Sensitivity or recall total
+0.9018324607329843
+
+Sensitivity or recall per classes
+[0.93 0.93 0.85]
+
+Precision
+[0.96 0.87 0.89]
+
+F1 Score
+[0.94 0.89 0.87]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 50s
+Best val Acc: 0.952880
+##############################
+
+==== END ====
+[[233   2   3]
+ [  1 254  16]
+ [  5  15 235]]
+
+Sensitivity or recall total
+0.9450261780104712
+
+Sensitivity or recall per classes
+[0.98 0.94 0.92]
+
+Precision
+[0.97 0.94 0.93]
+
+F1 Score
+[0.98 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 48s
+Best val Acc: 0.950262
+##############################
+
+==== END ====
+[[231   1   6]
+ [  2 253  16]
+ [  5  16 234]]
+
+Sensitivity or recall total
+0.9397905759162304
+
+Sensitivity or recall per classes
+[0.97 0.93 0.92]
+
+Precision
+[0.97 0.94 0.91]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 48s
+Best val Acc: 0.613874
+##############################
+
+==== END ====
+[[  3  41 194]
+ [  0 260  11]
+ [  0  47 208]]
+
+Sensitivity or recall total
+0.6164921465968587
+
+Sensitivity or recall per classes
+[0.01 0.96 0.82]
+
+Precision
+[1.   0.75 0.5 ]
+
+F1 Score
+[0.02 0.84 0.62]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 52s
+Best val Acc: 0.926702
+##############################
+
+==== END ====
+[[227   6   5]
+ [  0 257  14]
+ [  6  33 216]]
+
+Sensitivity or recall total
+0.9162303664921466
+
+Sensitivity or recall per classes
+[0.95 0.95 0.85]
+
+Precision
+[0.97 0.87 0.92]
+
+F1 Score
+[0.96 0.91 0.88]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 53s
+Best val Acc: 0.925393
+##############################
+
+==== END ====
+[[228   5   5]
+ [  1 254  16]
+ [  8  28 219]]
+
+Sensitivity or recall total
+0.9175392670157068
+
+Sensitivity or recall per classes
+[0.96 0.94 0.86]
+
+Precision
+[0.96 0.89 0.91]
+
+F1 Score
+[0.96 0.91 0.88]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 52s
+Best val Acc: 0.607330
+##############################
+
+==== END ====
+[[  0  25 213]
+ [  0 257  14]
+ [  0  54 201]]
+
+Sensitivity or recall total
+0.599476439790576
+
+Sensitivity or recall per classes
+[0.   0.95 0.79]
+
+Precision
+[0.   0.76 0.47]
+
+F1 Score
+[0.   0.85 0.59]
+Confusion matrix, without normalization
+
+============================================================
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[232   4   2]
+ [  1 259  11]
+ [  4  15 236]]
+
+Sensitivity or recall total
+0.9515706806282722
+
+Sensitivity or recall per classes
+[0.97478992 0.95571956 0.9254902 ]
+
+Precision
+[0.97890295 0.93165468 0.94779116]
+
+F1 Score
+[0.97684211 0.9435337  0.93650794]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 30s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[233   2   3]
+ [  2 252  17]
+ [  4   2 249]]
+
+Sensitivity or recall total
+0.9607329842931938
+
+Sensitivity or recall per classes
+[0.98 0.93 0.98]
+
+Precision
+[0.97 0.98 0.93]
+
+F1 Score
+[0.98 0.96 0.95]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 28s
+Best val Acc: 0.964660
+##############################
+
+==== END ====
+[[233   2   3]
+ [  0 260  11]
+ [  3  18 234]]
+
+Sensitivity or recall total
+0.9515706806282722
+
+Sensitivity or recall per classes
+[0.98 0.96 0.92]
+
+Precision
+[0.99 0.93 0.94]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 28s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[231   3   4]
+ [  0 257  14]
+ [  4  16 235]]
+
+Sensitivity or recall total
+0.9463350785340314
+
+Sensitivity or recall per classes
+[0.97 0.95 0.92]
+
+Precision
+[0.98 0.93 0.93]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 32s
+Best val Acc: 0.962042
+##############################
+
+==== END ====
+[[231   3   4]
+ [  0 257  14]
+ [  6  15 234]]
+
+Sensitivity or recall total
+0.9450261780104712
+
+Sensitivity or recall per classes
+[0.97 0.95 0.92]
+
+Precision
+[0.97 0.93 0.93]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 30s
+Best val Acc: 0.964660
+##############################
+
+==== END ====
+[[235   3   0]
+ [  1 256  14]
+ [  9  16 230]]
+
+Sensitivity or recall total
+0.943717277486911
+
+Sensitivity or recall per classes
+[0.99 0.94 0.9 ]
+
+Precision
+[0.96 0.93 0.94]
+
+F1 Score
+[0.97 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 28s
+Best val Acc: 0.960733
+##############################
+
+==== END ====
+[[232   2   4]
+ [  1 256  14]
+ [  5  14 236]]
+
+Sensitivity or recall total
+0.9476439790575916
+
+Sensitivity or recall per classes
+[0.97 0.94 0.93]
+
+Precision
+[0.97 0.94 0.93]
+
+F1 Score
+[0.97 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 32s
+Best val Acc: 0.964660
+##############################
+
+==== END ====
+[[231   2   5]
+ [  0 255  16]
+ [  2  11 242]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.97 0.94 0.95]
+
+Precision
+[0.99 0.95 0.92]
+
+F1 Score
+[0.98 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 33s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[229   3   6]
+ [  0 258  13]
+ [  4  14 237]]
+
+Sensitivity or recall total
+0.9476439790575916
+
+Sensitivity or recall per classes
+[0.96 0.95 0.93]
+
+Precision
+[0.98 0.94 0.93]
+
+F1 Score
+[0.97 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 39s
+Best val Acc: 0.955497
+##############################
+
+==== END ====
+[[232   4   2]
+ [  0 259  12]
+ [  4  14 237]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.97 0.96 0.93]
+
+Precision
+[0.98 0.94 0.94]
+
+F1 Score
+[0.98 0.95 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[233   3   2]
+ [  2 250  19]
+ [  3  10 242]]
+
+Sensitivity or recall total
+0.9489528795811518
+
+Sensitivity or recall per classes
+[0.98 0.92 0.95]
+
+Precision
+[0.98 0.95 0.92]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 49s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[232   4   2]
+ [  1 254  16]
+ [  3  13 239]]
+
+Sensitivity or recall total
+0.9489528795811518
+
+Sensitivity or recall per classes
+[0.97 0.94 0.94]
+
+Precision
+[0.98 0.94 0.93]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 44s
+Best val Acc: 0.954188
+##############################
+
+==== END ====
+[[234   2   2]
+ [  0 257  14]
+ [  3  19 233]]
+
+Sensitivity or recall total
+0.9476439790575916
+
+Sensitivity or recall per classes
+[0.98 0.95 0.91]
+
+Precision
+[0.99 0.92 0.94]
+
+F1 Score
+[0.99 0.94 0.92]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 46s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[233   4   1]
+ [  1 255  15]
+ [  3  11 241]]
+
+Sensitivity or recall total
+0.9541884816753927
+
+Sensitivity or recall per classes
+[0.98 0.94 0.95]
+
+Precision
+[0.98 0.94 0.94]
+
+F1 Score
+[0.98 0.94 0.94]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 48s
+Best val Acc: 0.954188
+##############################
+
+==== END ====
+[[233   4   1]
+ [  0 257  14]
+ [  5  14 236]]
+
+Sensitivity or recall total
+0.9502617801047121
+
+Sensitivity or recall per classes
+[0.98 0.95 0.93]
+
+Precision
+[0.98 0.93 0.94]
+
+F1 Score
+[0.98 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.959424
+##############################
+
+==== END ====
+[[231   5   2]
+ [  0 257  14]
+ [  5  13 237]]
+
+Sensitivity or recall total
+0.9489528795811518
+
+Sensitivity or recall per classes
+[0.97 0.95 0.93]
+
+Precision
+[0.98 0.93 0.94]
+
+F1 Score
+[0.97 0.94 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.958115
+##############################
+
+==== END ====
+[[228   4   6]
+ [  1 254  16]
+ [  3  19 233]]
+
+Sensitivity or recall total
+0.9358638743455497
+
+Sensitivity or recall per classes
+[0.96 0.94 0.91]
+
+Precision
+[0.98 0.92 0.91]
+
+F1 Score
+[0.97 0.93 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 41s
+Best val Acc: 0.956806
+##############################
+
+==== END ====
+[[230   3   5]
+ [  0 261  10]
+ [  4  14 237]]
+
+Sensitivity or recall total
+0.9528795811518325
+
+Sensitivity or recall per classes
+[0.97 0.96 0.93]
+
+Precision
+[0.98 0.94 0.94]
+
+F1 Score
+[0.97 0.95 0.93]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 48s
+Best val Acc: 0.926702
+##############################
+
+==== END ====
+[[227   8   3]
+ [  3 252  16]
+ [ 11  23 221]]
+
+Sensitivity or recall total
+0.9162303664921466
+
+Sensitivity or recall per classes
+[0.95 0.93 0.87]
+
+Precision
+[0.94 0.89 0.92]
+
+F1 Score
+[0.95 0.91 0.89]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 46s
+Best val Acc: 0.938482
+##############################
+
+==== END ====
+[[229   7   2]
+ [  2 255  14]
+ [  7  22 226]]
+
+Sensitivity or recall total
+0.9293193717277487
+
+Sensitivity or recall per classes
+[0.96 0.94 0.89]
+
+Precision
+[0.96 0.9  0.93]
+
+F1 Score
+[0.96 0.92 0.91]
+Confusion matrix, without normalization
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.943717
+##############################
+
+==== END ====

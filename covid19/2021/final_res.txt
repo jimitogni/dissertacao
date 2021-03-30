@@ -1,0 +1,1926 @@
+Initializing Datasets and Dataloaders...
+Files per classes
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 56s
+Best val Acc: 0.955497
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 1s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 6s
+Best val Acc: 0.964660
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 4s
+Best val Acc: 0.964660
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 5s
+Best val Acc: 0.964660
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 14s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 21s
+Best val Acc: 0.967277
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 23s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 27s
+Best val Acc: 0.955497
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 27s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 24s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 26s
+Best val Acc: 0.951571
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 25s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 28s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 24s
+Best val Acc: 0.950262
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 25s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 22s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 21s
+Best val Acc: 0.912304
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 19s
+Best val Acc: 0.926702
+##############################
+
+------ Summary ------
+model : squeezenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 41s
+Best val Acc: 0.925393
+##############################
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 7s
+Best val Acc: 0.972513
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.972513
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 27s
+Best val Acc: 0.972513
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 27s
+Best val Acc: 0.972513
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 30s
+Best val Acc: 0.969895
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.967277
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.971204
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.971204
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 21s
+Best val Acc: 0.971204
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 25s
+Best val Acc: 0.955497
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 25s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 24s
+Best val Acc: 0.963351
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 21s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 15s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 23s
+Best val Acc: 0.964660
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 25s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 20s
+Best val Acc: 0.965969
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 23s
+Best val Acc: 0.963351
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 20s
+Best val Acc: 0.939791
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 19s
+Best val Acc: 0.939791
+##############################
+
+------ Summary ------
+model : densenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 17s
+Best val Acc: 0.945026
+##############################
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 6s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 20s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 14s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 17s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 21s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 16s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 16s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 19s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.955497
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.954188
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 16s
+Best val Acc: 0.952880
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.951571
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 12s
+Best val Acc: 0.954188
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.954188
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 10s
+Best val Acc: 0.954188
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 8s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 12s
+Best val Acc: 0.933246
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.945026
+##############################
+
+------ Summary ------
+model : resnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 9s
+Best val Acc: 0.937173
+##############################
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 14s
+Best val Acc: 0.939791
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 17s
+Best val Acc: 0.934555
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 17s
+Best val Acc: 0.937173
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 20s
+Best val Acc: 0.941099
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 18s
+Best val Acc: 0.937173
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 23s
+Best val Acc: 0.941099
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 24s
+Best val Acc: 0.938482
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 20s
+Best val Acc: 0.938482
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 23s
+Best val Acc: 0.937173
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 24s
+Best val Acc: 0.928010
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 26s
+Best val Acc: 0.925393
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 25s
+Best val Acc: 0.930628
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 24s
+Best val Acc: 0.925393
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 28s
+Best val Acc: 0.931937
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 33s
+Best val Acc: 0.922775
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 34s
+Best val Acc: 0.925393
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 36s
+Best val Acc: 0.924084
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 36s
+Best val Acc: 0.928010
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 39s
+Best val Acc: 0.910995
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 36s
+Best val Acc: 0.905759
+##############################
+
+------ Summary ------
+model : alexnet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 39s
+Best val Acc: 0.905759
+##############################
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 1s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 33s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 32s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 37s
+Best val Acc: 0.955497
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 34s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 30s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 32s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 32s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 29s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 26s
+Best val Acc: 0.950262
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 24s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 21s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 22s
+Best val Acc: 0.951571
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 18s
+Best val Acc: 0.955497
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 16s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 17s
+Best val Acc: 0.947644
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 16s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 18s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 23s
+Best val Acc: 0.934555
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 22s
+Best val Acc: 0.942408
+##############################
+
+------ Summary ------
+model : vgg
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 30m 19s
+Best val Acc: 0.952880
+##############################
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 15s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 26s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 27s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 27s
+Best val Acc: 0.955497
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 30s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 40s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 34s
+Best val Acc: 0.954188
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 38s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 46s
+Best val Acc: 0.933246
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 52s
+Best val Acc: 0.948953
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 51s
+Best val Acc: 0.950262
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 56s
+Best val Acc: 0.933246
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 54s
+Best val Acc: 0.945026
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 57s
+Best val Acc: 0.947644
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 58s
+Best val Acc: 0.941099
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 58s
+Best val Acc: 0.950262
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 58s
+Best val Acc: 0.950262
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 29m 1s
+Best val Acc: 0.912304
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 54s
+Best val Acc: 0.925393
+##############################
+
+------ Summary ------
+model : googlenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 54s
+Best val Acc: 0.921466
+##############################
+
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 42s
+Best val Acc: 0.913613
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 53s
+Best val Acc: 0.945026
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 54s
+Best val Acc: 0.950262
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 56s
+Best val Acc: 0.909686
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 53s
+Best val Acc: 0.948953
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 50s
+Best val Acc: 0.951571
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 49s
+Best val Acc: 0.908377
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 50s
+Best val Acc: 0.952880
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 48s
+Best val Acc: 0.950262
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 48s
+Best val Acc: 0.613874
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 52s
+Best val Acc: 0.926702
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 53s
+Best val Acc: 0.925393
+##############################
+
+------ Summary ------
+model : shufflenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 27m 52s
+Best val Acc: 0.607330
+##############################
+
+----------------------------------------
+normal :  1341
+pneumonia :  1345
+covid :  1170
+--------------------
+Train, test, validation
+--------------------
+len_train_dir :  3053
+len_test_dir :  39
+len_val_dir :  764
+
+============================================================
+
+##############################
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 13s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 30s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 28s
+Best val Acc: 0.964660
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 28s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 32s
+Best val Acc: 0.962042
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 30s
+Best val Acc: 0.964660
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 28s
+Best val Acc: 0.960733
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 32s
+Best val Acc: 0.964660
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 33s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 39s
+Best val Acc: 0.955497
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 49s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 44s
+Best val Acc: 0.954188
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 46s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 16
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 48s
+Best val Acc: 0.954188
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.959424
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.958115
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 0.0001
+batch size : 32
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 41s
+Best val Acc: 0.956806
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : SGD
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 48s
+Best val Acc: 0.926702
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : ADAM
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 46s
+Best val Acc: 0.938482
+##############################
+
+------ Summary ------
+model : mobilenet
+epochs : 100
+lr : 1e-05
+batch size : 8
+optimizer : RMSprop
+criteriun : CrossEntropyLoss
+
+Training complete in 28m 45s
+Best val Acc: 0.943717
+##############################
+
